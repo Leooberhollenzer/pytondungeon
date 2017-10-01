@@ -1,2 +1,2 @@
 # pytondungeon
-roguelike with pyton 3
+roguelike with python 3
